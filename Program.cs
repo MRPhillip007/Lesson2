@@ -1,24 +1,20 @@
 ﻿static double powEquation(int x)
 {
     return -6 * Math.Pow(x, 3) + 5 * Math.Pow(x, 2) - 10 * x + 15;
-
 }
 
 static double funWithAbs(int x)
 {
     return Math.Abs(x) * Math.Sin(x);
-
 }
 
 static double equationWithPi(int x)
 {
     return 2 * Math.PI * x;
-
 }
 static int maxValue(int number1, int number2)
 {
     return Math.Max(number1, number2);
-
 }
 
 
