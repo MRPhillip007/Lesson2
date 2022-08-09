@@ -45,3 +45,4 @@ Console.WriteLine("Days passed from New Year: {0}", daysPassedFromNY());
 Console.WriteLine("Days left to New Year: {0}", daysLeftToNY());
 
 Console.ReadLine();
+//checked
